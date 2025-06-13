@@ -6,6 +6,7 @@ This repo contains all the information about creating an academic platform with 
 Deploy on Vercel: https://ecademy.vercel.app/
 
 Testing account for Ecademy
+
 Teacher: 
 Email: s67891@rmit.edu.vn   
 Password: IloveRMIT 

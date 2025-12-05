@@ -1,7 +1,7 @@
 MERN Stack App - Ecademy
 ---------------
-More Information!!
-This repo contains all the information about creating an academic platform with an AI assistant. 
+
+Youtube Demo Link: https://www.youtube.com/watch?v=ixz4qSMAEqQ 
 
 Deploy on Vercel: https://ecademy.vercel.app/
 
